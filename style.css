@@ -1,0 +1,59 @@
+  /* CSS styles */
+
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    
+  }
+
+  .amount{
+    border: none;
+    
+  }
+  .container{
+    margin-left: 35%;
+    margin-top: 5%;
+    color: whitesmoke;
+  }
+
+  .container h1{
+    font-family: popins;
+    color: whitesmoke;
+    margin-bottom: 50px;
+  }
+
+  .from{
+    width: 50%;
+  }
+
+
+  label {
+    font-weight: bold;
+  }
+
+  input[type="number"] {
+    padding: 5px;
+    width: 190px;
+    margin-bottom: 10px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #c09434;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+  }
+  button:hover{
+    background-color: whitesmoke;
+    color: black;
+    transition: .4s;
+  }
+
+  #result {
+    border: none;
+    color: whitesmoke;
+    
+  }
